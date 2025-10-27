@@ -1,4 +1,4 @@
-# Awesome Tools 🚀
+# Awesome Tools
 
 A curated list of **all CieloWeb tools** — fast, privacy-first, online utilities for productivity, development, SEO, entertainment, and more.  
 All tools are **free**, **no login required**, and **privacy-first**.  
